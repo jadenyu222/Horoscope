@@ -1,0 +1,43 @@
+
+body {
+    background-image: url("http://orig14.deviantart.net/380a/f/2014/088/5/8/black_science_man_wallpaper_by_zaros_bobthecat-d7c6eg6.png");
+}
+
+
+#dayTitle {
+    color: #f90042;
+    font-family: "sans-serif";
+    vertical-align: top;
+    horiz-align: center;
+}
+#monthTitle {
+    color: #35f968;
+    font-family: "sans-serif";
+    vertical-align: top;
+    horiz-align: center;
+}
+.fDM {
+    font-size: 23px;
+}
+
+.text {
+    font-size: 15px;
+    color: #f9f1f5;
+}
+#info {
+    color: #35f968;
+    font-size: 30px;
+    font-family: "sans-serif";
+    vertical-align: top;
+    horiz-align: center;
+}
+
+#header {
+    color: #f9309f;
+    font-size: 60px;
+    font-family: "sans-serif";
+    vertical-align: top;
+    horiz-align: center;
+}
+
+
